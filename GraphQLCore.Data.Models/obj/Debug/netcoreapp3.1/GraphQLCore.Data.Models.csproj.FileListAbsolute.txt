@@ -1,0 +1,12 @@
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Models.deps.json
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Models.runtimeconfig.json
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Models.runtimeconfig.dev.json
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Models.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Models.pdb
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Models.csprojAssemblyReference.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Models.AssemblyInfoInputs.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Models.AssemblyInfo.cs
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Models.csproj.CoreCompileInputs.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Models.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Models.pdb
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Models\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Models.genruntimeconfig.cache

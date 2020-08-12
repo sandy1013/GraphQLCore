@@ -1,0 +1,9 @@
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\bin\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.deps.json
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\bin\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\bin\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.pdb
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\obj\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.csprojAssemblyReference.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\obj\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.AssemblyInfoInputs.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\obj\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.AssemblyInfo.cs
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\obj\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.csproj.CoreCompileInputs.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\obj\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Business.Entities\obj\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.pdb

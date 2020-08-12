@@ -1,0 +1,14 @@
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Access.deps.json
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Access.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Access.pdb
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\bin\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Models.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\bin\Debug\netcoreapp3.1\GraphQLCore.Business.Entities.pdb
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\bin\Debug\netcoreapp3.1\GraphQLCore.Data.Models.pdb
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Access.csprojAssemblyReference.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Access.AssemblyInfoInputs.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Access.AssemblyInfo.cs
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Access.csproj.CoreCompileInputs.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Access.csproj.CopyComplete
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Access.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCore.Data.Access\obj\Debug\netcoreapp3.1\GraphQLCore.Data.Access.pdb

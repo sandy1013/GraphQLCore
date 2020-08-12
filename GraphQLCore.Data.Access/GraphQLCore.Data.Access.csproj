@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dotfo.EntityFrameworkCore.DbContextScope" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GraphQLCore.Business.Entities\GraphQLCore.Business.Entities.csproj" />
+    <ProjectReference Include="..\GraphQLCore.Data.Models\GraphQLCore.Data.Models.csproj" />
+  </ItemGroup>
+
+</Project>

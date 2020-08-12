@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GraphQLCore.Business.Entities/1.0.0": {
+        "runtime": {
+          "GraphQLCore.Business.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraphQLCore.Business.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

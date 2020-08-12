@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCoreAPI\\GraphQLCoreAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\GraphQLCore.Business.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\GraphQLCore.Business.Entities.csproj",
+        "projectName": "GraphQLCore.Business.Entities",
+        "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\GraphQLCore.Business.Entities.csproj",
+        "packagesPath": "C:\\Users\\santoshk\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santoshk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Access\\GraphQLCore.Data.Access.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Access\\GraphQLCore.Data.Access.csproj",
+        "projectName": "GraphQLCore.Data.Access",
+        "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Access\\GraphQLCore.Data.Access.csproj",
+        "packagesPath": "C:\\Users\\santoshk\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Access\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santoshk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\GraphQLCore.Business.Entities.csproj": {
+                "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\GraphQLCore.Business.Entities.csproj"
+              },
+              "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\GraphQLCore.Data.Models.csproj": {
+                "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\GraphQLCore.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dotfo.EntityFrameworkCore.DbContextScope": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\GraphQLCore.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\GraphQLCore.Data.Models.csproj",
+        "projectName": "GraphQLCore.Data.Models",
+        "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\GraphQLCore.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\santoshk\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santoshk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Dotfo.EntityFrameworkCore.DbContextScope": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCoreAPI\\GraphQLCoreAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCoreAPI\\GraphQLCoreAPI.csproj",
+        "projectName": "GraphQLCoreAPI",
+        "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCoreAPI\\GraphQLCoreAPI.csproj",
+        "packagesPath": "C:\\Users\\santoshk\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCoreAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\santoshk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\GraphQLCore.Business.Entities.csproj": {
+                "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Business.Entities\\GraphQLCore.Business.Entities.csproj"
+              },
+              "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Access\\GraphQLCore.Data.Access.csproj": {
+                "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Access\\GraphQLCore.Data.Access.csproj"
+              },
+              "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\GraphQLCore.Data.Models.csproj": {
+                "projectPath": "E:\\CodeBase\\dotnet\\GraphQLCore\\GraphQLCore.Data.Models\\GraphQLCore.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "GraphQL": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "GraphQL.Server.Ui.Voyager": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
