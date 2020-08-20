@@ -61,8 +61,6 @@ E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\GraphQLCor
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.csprojAssemblyReference.cache
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.AssemblyInfoInputs.cache
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.AssemblyInfo.cs
-E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.csproj.CoreCompileInputs.cache
-E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.MvcApplicationPartsAssemblyInfo.cache
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.RazorTargetAssemblyInfo.cache
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.csproj.CopyComplete
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\GraphQLCoreAPI.StaticWebAssets.Manifest.cache
@@ -70,3 +68,14 @@ E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\staticweba
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.dll
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.pdb
 E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.genruntimeconfig.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.csproj.CoreCompileInputs.cache
+E:\CodeBase\dotnet\GraphQLCore\GraphQLCoreAPI\obj\Debug\netcoreapp3.1\GraphQLCoreAPI.MvcApplicationPartsAssemblyInfo.cache

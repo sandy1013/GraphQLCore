@@ -64,6 +64,8 @@ namespace GraphQLCore.Data.Access.Data
             Mapper mapper = new Mapper(config);
             Employee newEmployee = mapper.Map<AddEmployeeDataModel, Employee>(employee);
 
+            var phoneNumber = newEmployee.PhoneNumber;
+
             var _ = await _context.Employees.AddAsync(newEmployee);
 
             var __ = await _context.SaveChangesAsync();
